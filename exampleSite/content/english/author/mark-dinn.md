@@ -1,7 +1,7 @@
 ---
 title: Nadir Lloret
 image: ''
-email: email2@example.org
+email: nadir.lloret@sentella.co.uk
 social:
 - icon: ti-linkedin
   link: https://www.linkedin.com/in/nadir-lloret
