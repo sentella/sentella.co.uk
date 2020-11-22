@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Nestros trabajos
+  title : Nuestros trabajos
   portfolio_item :
     # portfolio item loop
     - name : Wonderbly
