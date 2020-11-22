@@ -1,7 +1,7 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/devops_loop.png
+  image : images/about/devops_loop.jpg
   image_webp : images/about/devops_loop.webp
   title : DevOps Consultancy.
   content : "When you use our DevOps services and our DevOps consulting, you can optimize your business software, enabling you to deliver your products faster to the market and set you on track to leading your business niche."
