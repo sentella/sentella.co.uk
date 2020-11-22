@@ -20,31 +20,59 @@ home = "Home"
 languageCode = "es-es"
 languageName = "Es"
 weight = 2
-[[menu.main]]
+################### English Navigation ########################
+[[Languages.en.menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
 weight = 5
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
 weight = 4
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "portfolio"
 pre = "#"
 url = "portfolio"
 weight = 3
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "services"
 pre = "#"
 url = "services"
 weight = 2
-[[menu.main]]
+[[Languages.en.menu.main]]
 name = "about"
 pre = "#"
 url = "about"
 weight = 1
+################### Spanish Navigation ########################
+[[Languages.es.menu.main]]
+name = "contacto"
+pre = "#"
+url = "contact"
+weight = 5
+[[Languages.es.menu.main]]
+name = "blog"
+pre = "#"
+url = "blog"
+weight = 4
+[[Languages.es.menu.main]]
+name = "portfolio"
+pre = "#"
+url = "portfolio"
+weight = 3
+[[Languages.es.menu.main]]
+name = "servicios"
+pre = "#"
+url = "services"
+weight = 2
+[[Languages.es.menu.main]]
+name = "acerca"
+pre = "#"
+url = "about"
+weight = 1
+
 [params]
 author = "Sentella"
 description = "Cloud native solutions to adapt and transform to DevOps methodologies"
