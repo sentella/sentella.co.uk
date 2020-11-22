@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/70fa9beb-3e84-42cc-afaf-3d9dbcc2749f/deploy-status)](https://app.netlify.com/sites/sentella/deploys)
+
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with **Meghna Hugo** theme by following these easy steps(No Coding Required!)
 

@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://sentella.co.uk"
 title = "Sentella"
-theme = "meghna-hugo"
+theme = "sentella.co.uk"
 themesDir = "../.."
 # post pagination
 paginate = "6"
