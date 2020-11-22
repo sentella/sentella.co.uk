@@ -4,26 +4,26 @@ service:
   enable : true
   title : Our Services
   service_item :
-    - name : Cloud Migration
+    - name : Migración a la Nube
       icon : ti-world 
-      content : Planning to move out of your datacenter? We can help evaluating, assessing the impact, planning and executing the project.
+      content : ¿Planea mudarse de su centro de datos? Podemos ayudar a evaluar, valorar el impacto, planificar y ejecutar el proyecto.
       
     - name : Devops
       icon : ti-infinite
-      content : We can plan and transition your ways of working towards a devops culture. We'll hold your hand until we've reached there.
+      content : Podemos planificar y hacer la transición de sus formas de trabajar hacia una cultura devops.
       
-    - name : Microservices
+    - name : Microservicios
       icon : ti-more
-      content : Setting up a platform fully functional and ready to host microservices will reduce the uncertainty of the task to split your monolith.
+      content : Configuración de una plataforma completamente funcional y lista para alojar microservicios probada y madurada.
 
-    - name : Cost Optimization
+    - name : Optimización de costes
       icon : ti-money
-      content : We can apply cost optimization best practices and reduce your annual bill. A clear roadmap and detailed plan of execution.
+      content : Podemos aplicar las mejores prácticas de optimización de costes y reducir su factura anual. Una hoja de ruta clara y un plan de ejecución detallado.
       
-    - name : Apps Development
+    - name : Desarrollo de aplicaciones
       icon : ti-package
-      content : Being proficient in various coding languages we can help you build your next application. (Golang/Python/Java/Node)
+      content : Siendo competentes en varios lenguajes, podemos ayudar a crear su próxima aplicación.
       
-    - name : Maturify
+    - name : Maduración
       icon : ti-blackboard
-      content : By working with your team within your own project, we can set a training program that focus on maturing the skills of your team.
+      content : Al trabajar con su equipo dentro de su propio proyecto, podemos establecer un programa de capacitación que se centre en madurar las habilidades de su equipo.

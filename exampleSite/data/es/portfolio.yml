@@ -8,7 +8,7 @@ portfolio:
       image : images/portfolio/wonderbly.jpg
       image_webp : images/portfolio/wonderbly.webp
       categories : ["microservices"]
-      content : AWS platform for microservices to generate thousands of beautiful images per second.
+      content : Plataforme en AWS para microservicios capaz de generar miles de imágenes por segundo.
       link : "https://wonderbly.com"
       
     # portfolio item loop
@@ -16,7 +16,7 @@ portfolio:
       image : images/portfolio/clearscore.jpg
       image_webp : images/portfolio/clearscore.webp
       categories : ["microservices", "cloud migration"]
-      content : Migration from IBM Softlayer into AWS while splitting monolith into microservices.
+      content : Migración de IBM Softlayer a AWS a la vez que partiendo la aplicación en microservicios.
       link : "https://clearscore.co.uk"
       
     # portfolio item loop
@@ -24,5 +24,5 @@ portfolio:
       image : images/portfolio/wickes.jpg
       image_webp : images/portfolio/wickes.webp
       categories : ["microservices", "cloud migration", "digital transformation"]
-      content : Migration from on-prem to AWS. Microservices platform in AWS. 
+      content : Migración de centro de datos a AWS. Plataforma de microservicios en AWS.
       link : "https://wickes.co.uk"

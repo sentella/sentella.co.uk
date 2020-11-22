@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/devops_loop.png
   image_webp : images/about/devops_loop.webp
-  title : We’re A DevOps Consultancy.
-  content : "When you use our DevOps services and our DevOps consulting, you can optimize your business software, enabling you to deliver your products faster to the market and set you on track to leading your business niche."
+  title : Consultoría en DevOps
+  content : "Utilizando nuestros servicios en metodolgías DevOps, puede optimizar su software empresarial, lo que le permite entregar sus productos más rápidamente al mercado y encaminarlo hacia el liderazgo de su nicho empresarial."
   feature_item : 
       # feature item loop
-    - title : DevOps transformation
+    - title : Transformación DevOps
       icon : ti-direction-alt # themify icon pack : https://themify.me/themify-icons
-      content : A bespoke route guide for your organisation's DevOps transformation.
+      content : Una guía de ruta personalizada para la transformación DevOps de su organización.
       
       # feature item loop
-    - title : Tooling
+    - title : Herramientas
       icon : ti-panel
-      content : Selecion of the right tooling for your organisation.
+      content : Selección de las herramientas adecuadas para su organización.
 
       # feature item loop
-    - title : Coaching
+    - title : Formación
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Embedded coaching to cultivate DevOps ways of working.
+      content : Coaching integrado para cultivar formas de trabajo en metodologías DevOps.
       
       # feature item loop
-    - title : Cloud Infrastructure
+    - title : Infrastructure en la Nube
       icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-      content : Maximising reliability, efficiency, observability, scalability and capability, while also reducing your overall cost base.
+      content : Maximizando la resilencia, eficiencia, observabilidad, escalabilidad y capacidad, al mismo tiempo reduciendo los costes operacionales.

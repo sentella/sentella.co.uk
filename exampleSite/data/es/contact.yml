@@ -1,9 +1,9 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
-  content : We keep all your project information safe and secure. Drop us a line and we'll get back to you shortly.
+  title : Contáctanos
+  subtitle : Detalles de contacto
+  content : Mantenemos los detalles de proyectos seguros y protegidos. Envíenos un mensaje y nos comunicaremos con usted en breve.
 
   # Contact details
   contact_list:
@@ -11,15 +11,15 @@ contact:
       info : "Telecom House, 125-135 Preston Road, Brighton, England, BN1 6AF"
       
     - icon : ti-email
-      info : "Email: sales@sentella.co.uk"
+      info : "Email: contact@sentella.co.uk"
 
 
   # Contact form
   contact_form:
     enable : true
     form_action : "#" #contact form works with https://formspree.io
-    name : "Your Name"
-    email : "Your Email"
-    subject : "Subject"
-    message : "Message"
-    submit : "Submit"
+    name : "Tu Nombre"
+    email : "Tu Email"
+    subject : "Título"
+    message : "Mensaje"
+    submit : "Enviar"

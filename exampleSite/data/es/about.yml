@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Sobre nosotros
   about_item :
   - icon : ti-comments # themify icon pack : https://themify.me/themify-icons
-    title : We're Clear
-    content : We do what we say and say what we can do. You won't find any surprise down the line.
+    title : Claros
+    content : Hacemos lo que decimos y decimos lo que podemos hacer.
 
   - icon : ti-medall-alt # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Customer needs always comes first. We will do what is necessary to meet those needs.
+    title : Profesionales
+    content : Las necesidades del cliente simpre están por delante. Haremos lo necesario para satisfacerlas.
 
   - icon : ti-cloud # themify icon pack : https://themify.me/themify-icons
-    title : We're Cloud
-    content : Experts on cloud services, we will accelerate your company for closing the technology gap.
+    title : Nube
+    content : Expertos en servicios en la nube. Aceleraremos su empresa para cerrar la brecha tecnológica.

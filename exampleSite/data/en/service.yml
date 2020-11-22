@@ -22,7 +22,7 @@ service:
       
     - name : Apps Development
       icon : ti-package
-      content : Being proficient in various coding languages we can help you build your next application. (Golang/Python/Java/Node)
+      content : Being proficient in various coding languages we can help you build your next application.
       
     - name : Maturify
       icon : ti-blackboard
