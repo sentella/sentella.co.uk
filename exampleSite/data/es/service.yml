@@ -2,7 +2,7 @@
 # themify icon pack : https://themify.me/themify-icons
 service:
   enable : true
-  title : Our Services
+  title : Nuestros Servicios
   service_item :
     - name : Migración a la Nube
       icon : ti-world 

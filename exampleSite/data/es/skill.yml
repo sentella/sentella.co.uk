@@ -1,7 +1,7 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Skills
+  title : Nuestros Skills
   subtitle : We’re skilled in a wide range of cloud and infrastructure tools.
   content : We have the necessary skills to bring your projects to a succesful end on time.
   image : images/about/company-growth.webp
