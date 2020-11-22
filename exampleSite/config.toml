@@ -26,11 +26,11 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 5
-[[Languages.en.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "blog"
+# pre = "#"
+# url = "blog"
+# weight = 4
 [[Languages.en.menu.main]]
 name = "portfolio"
 pre = "#"
@@ -52,11 +52,11 @@ name = "contacto"
 pre = "#"
 url = "contact"
 weight = 5
-[[Languages.es.menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 4
+# [[Languages.es.menu.main]]
+# name = "blog"
+# pre = "#"
+# url = "blog"
+# weight = 4
 [[Languages.es.menu.main]]
 name = "portfolio"
 pre = "#"
