@@ -9,6 +9,10 @@ team:
       designation : CEO / Founder
       content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
       social :
+        - icon : "ti-twitter-alt"
+          link : "https://twitter.com/Nadiret"
+        - icon : "ti-github"
+          link : "http://github.com/nadirollo/"
         - icon : "ti-linkedin"
           link : "www.linkedin.com/in/nadir-lloret"
         
@@ -18,7 +22,11 @@ team:
       designation : Backend Specialist / Manager
       content : Docker champion. Will deliver at all costs.
       social :
+        - icon : ti-twitter-alt
+          link : "#"
         - icon : ti-linkedin
+          link : "#"
+        - icon : ti-github
           link : "#"
     
     - name : Roberto Tena
@@ -27,7 +35,11 @@ team:
       designation : Technical Architect / Manager
       content : Depp understanding of all shit related old style things you may have.
       social :
+        - icon : ti-twitter-alt
+          link : "#"
         - icon : ti-linkedin
+          link : "#"
+        - icon : ti-github
           link : "#"
         
     - name : Franco Gotusso
@@ -36,5 +48,9 @@ team:
       designation : Full Stack / Manager
       content : Brightest man ever existed.
       social :
+        - icon : ti-twitter-alt
+          link : "#"
         - icon : ti-linkedin
+          link : "#"
+        - icon : ti-github
           link : "#"
